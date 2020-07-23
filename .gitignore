@@ -1,0 +1,15 @@
+*.pyc
+*.orig
+*.idea
+*.classpath
+*.project
+*.settings
+*.DS_Store
+ghostdriver.log
+*.metadata
+**/log.html
+**/output.xml
+**/report.html
+script.txt
+selenium-screenshot*
+localREADME.md
